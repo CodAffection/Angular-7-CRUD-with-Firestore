@@ -6,7 +6,7 @@ Angular 7 CRUD with Firestore - Insert Update and Delete Using Firebase Project.
  2. Configure firebase project with your gmail account.
  
  
- # Step By Step Explanation ()
+ # Step By Step Explanation (on 12- Nov)
  
  Video Tutorial : https://youtu.be/5I6k77uqtLY
  
