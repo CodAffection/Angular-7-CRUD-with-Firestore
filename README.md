@@ -8,6 +8,7 @@ Angular 7 CRUD with Firestore - Insert Update and Delete Using Firebase Project.
  
  # Step By Step Explanation (on 12- Nov)
  
+ Text Article   : https://goo.gl/vafSt2
  Video Tutorial : https://youtu.be/5I6k77uqtLY
  
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=5I6k77uqtLY
